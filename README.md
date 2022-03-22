@@ -1,5 +1,5 @@
 # PTU-Chess-Club
-# Website for the Chess Club of PTU Pondicherry
+# Website for the Chess Club of PTU Pondicherry (underprocess)
  The Chess Club acts as a hub for chess players of PTU Pondicherry, the premier research institute in India. This is the official repository for the website of same.
 
 [Chess Club PTU](https://ptuniv.edu.in/)
