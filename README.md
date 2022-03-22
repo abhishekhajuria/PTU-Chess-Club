@@ -4,9 +4,9 @@
 
 [Chess Club PTU](https://ptuniv.edu.in/)
 
-# The primary vision of the club is to act as a platform for players to sharpen their skills in the game, increase their critical thinking and to promote chess in the institute and beyond.
+The primary vision of the club is to act as a platform for players to sharpen their skills in the game, increase their critical thinking and to promote chess in the institute and beyond.
 
-# Feel free to pay a visit whenever you might wanna solve some puzzles, analyze some games, play or watch some online blitz, watch live broadcasts of popular grand tournaments, or even to challenge your fellow members from PTU . 
+Feel free to pay a visit whenever you might wanna solve some puzzles, analyze some games, play or watch some online blitz, watch live broadcasts of popular grand tournaments, or even to challenge your fellow members from PTU . 
 
 Just join together, verify your guest id/ username and send a challenge request and play as many games as you like!
 
