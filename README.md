@@ -10,4 +10,4 @@ Feel free to pay a visit whenever you might wanna solve some puzzles, analyze so
 
 Just join together, verify your guest id/ username and send a challenge request and play as many games as you like!
 
-## Most of the embedded widgets are hosted by [Chessbase](https://en.chessbase.com/)
+
