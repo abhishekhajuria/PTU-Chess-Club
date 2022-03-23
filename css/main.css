@@ -1,0 +1,495 @@
+body,
+html,
+{
+    background: black;
+    height: 100%;
+}
+
+body {
+    font-family: "GothamRoundedMedium";
+    font-weight: 400;
+    color: #fff
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: "GothamRoundedLight";
+    font-weight: 100;
+    letter-spacing: .3rem;
+    padding: 0 32pt;
+    margin-bottom: 8pt;
+    line-height: 4rem;
+}
+
+a,
+h1,
+h2 {
+    text-transform: uppercase
+}
+
+h2 {
+    letter-spacing: .35rem;
+    line-height: 2.5rem;
+    margin: 16pt 40pt;
+}
+
+p {
+    font-family: "Karla", sans-serif;
+}
+
+.wow {
+    visibility: hidden;
+}
+
+#main_logo {
+    padding: 0 0 5pt 0;
+    max-width: 70%;
+    max-height: 400px;
+}
+
+.intro h1 {
+    /* font-family: "GothamRoundedMedium"; */
+    /* font-weight: 400; */
+    margin-bottom: 0 !important;
+    font-size: 3.5rem;
+    line-height: 4rem;
+    padding: 0;
+}
+
+.intro h2 {
+    padding: 0;
+    margin: 0;
+}
+
+#puzzles {
+    margin-top: 4rem;
+}
+
+#scroll_links {
+    margin: 3rem 0;
+}
+
+h2,
+h2 a {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #fff;
+    font-family: "GothamRoundedBook";
+    font-weight: 300;
+    font-size: 1.25rem;
+    border-bottom: 1px solid #fff;
+    text-decoration: none
+}
+
+h2 a {
+    font-weight: 900;
+}
+
+a:active,
+a:hover {
+    color: #555;
+    border-bottom: 1px solid #555;
+}
+
+#mail-us {
+    padding: 1rem 0;
+}
+
+#mail-link, #team-link{
+    font-size: 1rem;
+    font-family: "GothamRoundedMedium";
+    text-transform: none;
+}
+
+#puzzle-link{
+    font-size: 1.3rem;
+    color: #100505;
+    font-family: "Karla";
+    text-transform: none;
+}
+
+.link_centered {
+    min-width: 150px;
+    display: inline-block;
+    letter-spacing: .15rem;
+    padding-bottom: 16pt;
+}
+
+.section-wrapper {
+    padding: 56pt 0;
+    box-sizing: border-box;
+    width: 90%;
+    margin: 0 5%;
+    text-align: center;
+}
+
+.section {
+    background: black;
+    background: linear-gradient(to bottom, hsla(23, 30%, 0%, 0.50), hsl(0, 90%, 4%)), url(../img/chessboard.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section.members h2 {
+    margin-bottom: 1rem;
+}
+
+.members-box{
+    margin: 2rem 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 1rem;
+    grid-column-gap: 1rem;
+}
+
+.office-bearers-box {
+    margin: 0rem 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 1rem;
+    grid-column-gap: 1rem;
+}
+
+.credits {
+    /* A note to any future office bearer of the club, it took us quite a considerable amount of effort to make this website, please do not remove the credits; Much love*/
+    color: #3b3030;
+    margin: 0rem 10%;
+    width: 80%;
+    grid-row-gap: 1rem;
+    grid-column-gap: 1rem;
+}
+
+.section.about {
+    /* background: rgb(17, 1, 1); */
+    /* color: rgb(255, 255, 255); */
+    background: #ffffff;
+    color: rgb(17, 1, 1);
+}
+
+.section.analyze {
+    background: rgb(17, 1, 1);
+    color: rgb(255, 255, 255);
+    /* background: #ffffff;
+    color: rgb(17, 1, 1); */
+}
+
+.section.intro {
+    min-height: 100vh;
+    /*    margin-bottom: -60px;
+    box-sizing: border-box;
+    min-height: 100vh;*/
+}
+
+.section.about .bullet {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 40pt 56pt 0 56pt;
+    box-sizing: border-box;
+}
+
+.section.about .bullet img {
+    width: 100px;
+    padding-bottom: 32pt;
+}
+
+.section.about .bullet h2 {
+    padding: 0 0 16pt 0;
+    margin: 0;
+}
+
+.description {
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    text-align: center;
+    line-height: 1.7rem;
+    margin: 1rem 8pt;
+}
+
+.section.about .bullet p {
+    margin: 0 auto;
+    display: inline-block;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    font-weight: 100;
+    font-size: 1.2rem;
+    text-align: center;
+    max-width: 250px;
+    letter-spacing: -.04rem;
+    word-spacing: -.02rem;
+    line-height: 1.7rem
+}
+
+.section.daily-puzzle {
+    background: #100505;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+
+.section.conquests {
+    background: linear-gradient(to bottom right, hsla(0, 90%, 4%), hsla(90, 0%, 0%, 0.70)), url(../img/king_down.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section.events {
+    background: linear-gradient(to bottom right, hsla(0, 90%, 4%), hsla(90, 0%, 0%, 0.70)), url(../img/pieces.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.events-box{
+    display: grid;
+    place-items: center;
+    box-sizing: border-box
+}
+
+.section.open-events {
+    background: #160808;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section.members {
+    background: linear-gradient(to top left, hsla(0, 90%, 4%), hsla(90, 10%, 8%, 0.70)), url(../img/brown-pieces.jpg) no-repeat center center;
+    /* background: linear-gradient(to bottom right, hsla(23, 80%, 4%), hsla(90, 0%, 4%, 0.80)); */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section.gallery {
+    background: #160808;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.section.gallery .section-wrapper {
+    padding-bottom: 20pt;
+}
+
+.collapsible {
+    transition: max-height 1s;
+    max-height: 0;
+    overflow: hidden;
+}
+.collapsible.expanded {
+    max-height: auto;
+}
+
+.collapse-button .arrow {
+    display: inline-block;
+    height: 24px;
+    content: url('../img/down-arrow.svg');
+    filter: invert(90%);
+    transition: transform 0.5s;
+}
+
+.collapse-button-text {
+    font-family: 'GothamRoundedMedium', sans-serif;
+    font-size: 1rem;
+    transition: visibility 0.5s ease-in;
+    margin: 12px;
+}
+
+.collapse-button .collapse-button-text.collapse {
+    visibility: hidden;
+}
+.collapse-button .collapse-button-text.expand {
+    visibility: visible;
+}
+.collapse-button.expanded .collapse-button-text.collapse {
+    visibility: visible;
+}
+.collapse-button.expanded .collapse-button-text.expand {
+    visibility: hidden;
+}
+
+.collapse-button {
+    display: inline-block;
+    padding: 1rem;
+    transition: transform 0.5s;
+}
+.collapse-button:hover {
+    transform: translateY(10px);
+} 
+.collapse-button.expanded:hover {
+    transform: translateY(-10px);
+}
+.collapse-button.expanded .arrow {
+    transform: rotate(-180deg);
+}
+
+.carousel {
+    margin: 2rem 0 4rem 0;
+    background: none;
+}
+
+.carousel-cell {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 200px;
+    margin-bottom: 0.5rem;
+}
+
+.carousel-cell-image {
+    display: block;
+    height: 400px;
+    padding: 0 0.5rem;
+    transition: opacity 0.4s;
+    opacity: 0;
+}
+
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+    opacity: 1;
+}
+
+.carousel-caption {
+    margin-top: 1rem;
+}
+
+.carousel.is-fullscreen {
+    background: #160808 !important;
+    margin: 0;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+    height: 100%;
+    width: 100%;
+}
+.carousel.is-fullscreen .carousel-cell-image {
+    height: auto;
+    width: auto;
+    max-height: 90%;
+    max-width: 95vw;
+    margin: 1% 0 0 0;
+}
+
+.flickity-page-dots .dot {
+    width: 12px;
+    height: 12px;
+    opacity: 1;
+    background: transparent;
+    border: 2px solid white;
+}
+
+.flickity-fullscreen-button {
+    width: 28px !important;
+    height: 28px !important;
+    padding: 0 !important;
+    border: 2px solid #333333 !important;
+}
+
+.section.contact {
+    background: #100505;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+.social-icons .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20%;
+    height: 2.5rem;
+    width: 2.5rem;
+    color: #fff;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    transition: 0.2s all;
+}
+
+#socialInsta {
+    background: #e1306c;
+}
+#socialInsta:hover {
+    background: #fff;
+    color: #e1306c;
+}
+#socialFace {
+    background: #3b5998;
+}
+#socialFace:hover {
+    background: #fff;
+    color: #3b5998;
+}
+
+@media (max-width:800px) {
+    * {
+        background-attachment: initial !important;
+    }
+    .members-box {
+        grid-template-columns: repeat(2, 1fr);
+    }    
+}
+
+@media (max-width:600px) {
+    .carousel-cell {
+        min-width: 100px;
+    }
+    .carousel-cell-image {
+        height: 200px;
+    }
+    .flickity-page-dots .dot {
+        width: 6px !important;
+        height: 6px !important;
+        margin: 0 4px !important;
+    }
+
+    .members-box, .office-bearers-box {
+        grid-template-columns: 1fr;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+    h2, h2 a {
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+
+    .description {
+        font-size: 1.2rem;
+        line-height: 1.2rem;
+    }
+}
+
+@media (max-width:420px) {
+    .form-group input.required,
+    .form-group input:focus,
+    .form-group textarea.required,
+    .form-group textarea.required:focus {
+        width: 200px
+    }
+}
+
