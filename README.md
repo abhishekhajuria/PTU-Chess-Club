@@ -14,7 +14,6 @@ Just join together, verify your guest id/ username and send a challenge request 
 ![Screenshot (94)](https://user-images.githubusercontent.com/63535532/168460628-b5f8829b-701f-43d2-a9f9-9a2ad5695f1d.png)
 ![Screenshot (95)](https://user-images.githubusercontent.com/63535532/168460629-5087be69-3557-4bde-8c5f-afb33f08f4a5.png)
 ![Screenshot (96)](https://user-images.githubusercontent.com/63535532/168460631-e6e91559-0472-4639-9093-2802b7b33319.png)
-![Screenshot (97)](https://user-images.githubusercontent.com/63535532/168460617-2c4822c6-14bc-4896-9f00-ef1c19ab5543.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/63535532/168460622-b6907dc7-7214-4f23-a86b-01e183a885b3.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/63535532/168460625-6ed08afb-f7d1-4c18-b5b7-07e2c541c2e5.png)
 ![Screenshot (100)](https://user-images.githubusercontent.com/63535532/168460626-e9bce585-73ab-4acd-92fa-eed676c296b6.png)
