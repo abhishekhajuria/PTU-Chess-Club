@@ -1,0 +1,55 @@
+
+<Players>
+<student category="COOKING">
+<name lang="en">Abhishek</name>
+<Rating>2100</Rating>
+</student>
+<student category="CHILDREN">
+<name lang="en">Bhuvan</name>
+<Rating>1700</Rating>
+</student>
+<student category="WEB">
+<name lang="en">Charan</name>
+<Rating>1192</Rating>
+</student>
+<student category="WEB">
+<name lang="en">Ram</name>
+<Rating>1060</Rating>
+</student>
+<student>
+<name lang="en">Peter</name>
+<Rating>1092</Rating>
+</student>
+<student>
+<name lang="en">Charan</name>
+<Rating>1102</Rating>
+</student>
+<student>
+<name lang="en">Kiranjeet singh</name>
+<Rating>1500</Rating>
+</student>
+<student>
+<name lang="en">Ramesh</name>
+<Rating>1172</Rating>
+</student>
+<student>
+<name lang="en">Suresh</name>
+<Rating>1082</Rating>
+</student>
+<student>
+<name lang="en">Stuart</name>
+<Rating>1180</Rating>
+</student>
+<student>
+<name lang="en">Brownie</name>
+<Rating>2172</Rating>
+</student>
+<student>
+<name lang="en">GM Carlsen</name>
+<Rating>2782</Rating>
+</student>
+<student>
+<name lang="en">GM vishu</name>
+<Rating>2372</Rating>
+</student>
+</Players>
