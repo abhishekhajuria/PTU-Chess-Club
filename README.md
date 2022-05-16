@@ -10,7 +10,7 @@ Feel free to pay a visit whenever you might wanna solve some puzzles, analyze so
 
 Just join together, verify your guest id/ username and send a challenge request and play as many games as you like! on [Lichess](https://lichess.org/@/abhishek_khajuria)
 
-# This project cover concepts of
+ This project cover concepts of
 1.html, css
 2. javascript
 3. cookies
