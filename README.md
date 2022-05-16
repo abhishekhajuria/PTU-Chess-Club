@@ -10,6 +10,20 @@ Feel free to pay a visit whenever you might wanna solve some puzzles, analyze so
 
 Just join together, verify your guest id/ username and send a challenge request and play as many games as you like! on [Lichess](https://lichess.org/@/abhishek_khajuria)
 
+# This project cover concepts of
+1.html, css
+2. javascript
+3. cookies
+4. session tracking
+5. servelets
+6. Database (php)
+7. java servelets pages
+8. xml
+9. &Some concepts of ajax
+ 
+-------------------------------------------------------some of ss ---------------------------------------------------
+
+
 ![Screenshot (93)](https://user-images.githubusercontent.com/63535532/168460627-c27caf93-8a04-4e23-95f0-8e8007bf6547.png)
 ![Screenshot (94)](https://user-images.githubusercontent.com/63535532/168460628-b5f8829b-701f-43d2-a9f9-9a2ad5695f1d.png)
 ![Screenshot (95)](https://user-images.githubusercontent.com/63535532/168460629-5087be69-3557-4bde-8c5f-afb33f08f4a5.png)
