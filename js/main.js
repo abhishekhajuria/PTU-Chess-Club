@@ -1,6 +1,23 @@
 $(document).ready(function() {
 
     new WOW({mobile: false}).init();
+    // When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var navbar = document.getElementById("navbar");
+
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
 
     function scrollTo(div) {
         $('html, body').animate({
@@ -43,12 +60,12 @@ $(document).ready(function() {
         }
     });
 
-    $.get("grabber.php?url=https://raw.githubusercontent.com/IISER-K-Chess-Club/chess-club/master/members.txt", function(data) {
+    $.get("grabber.php?url=https://raw.githubusercontent.com/PTU-Chess-Club/chess-club/master/members.txt", function(data) {
         data.split('\n').sort().filter( function(s) { return s.length > 0;}).forEach( function(name, index) {
             $('#members-list').append('<div>' + name + '</div>');
         });
     });
-    $.get("grabber.php?url=https://raw.githubusercontent.com/IISER-K-Chess-Club/chess-club/master/hall-of-fame.txt", function(data) {
+    $.get("grabber.php?url=https://raw.githubusercontent.com/PTU-Chess-Club/chess-club/master/hall-of-fame.txt", function(data) {
         data.split('\n').sort().filter( function(s) { return s.length > 0;}).forEach( function(name, index) {
             $('#hall-of-fame-list').append('<div>' + name + '</div>');
         });
