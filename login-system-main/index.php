@@ -282,8 +282,8 @@ if(isset($_POST['submit'])){
 <input type="text" class="form-control" name="village" placeholder="1234 Main St">
 </div>
 <div class="form-group">
-<label for="inputAddress2">Police Station</label>
-<input type="text" class="form-control" name="police_station" placeholder="Enter police station">
+<label for="inputAddress2">Post office</label>
+<input type="text" class="form-control" name="police_station" placeholder="Enter post office">
 </div>
 <div class="form-row">
 <div class="form-group col-md-6">
@@ -629,8 +629,8 @@ while($row = mysqli_fetch_array($run_data))
 		<input type='text' class='form-control' name='village' placeholder='1234 Main St' value='$village'>
 		</div>
 		<div class='form-group'>
-		<label for='inputAddress2'>Police Station</label>
-		<input type='text' class='form-control' name='police_station' placeholder='Enter police station' value='$police'>
+		<label for='inputAddress2'>Post Office</label>
+		<input type='text' class='form-control' name='police_station' placeholder='Enter Post Office' value='$police'>
 		</div>
 		<div class='form-row'>
 		<div class='form-group col-md-6'>
@@ -731,3 +731,4 @@ while($row = mysqli_fetch_array($run_data))
 
 </body>
 </html>
+#abhishek_khajuria 3rd year cse from jammu kashmir
