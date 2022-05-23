@@ -1,0 +1,20 @@
+# database name should be bot with one table name with chatbot , after that paste this queries in myphp regards abhishek
+
+
+127.0.0.1/bot/chatbot/		http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=bot&table=chatbot&pos=0
+
+   Showing rows 0 -  7 (8 total, Query took 0.0002 seconds.)
+
+
+SELECT * FROM `chatbot`
+
+
+id	queries	replies	
+0	hi|hello|hy|hey	Hello there! Abhishek Welcome you to Chess club !H...	
+1	hi|hello|hey|hy	Hello there! Abhishek Welcome you to Chess club !H...	
+0	how to improve my chess game	practice tactics and do watch grandmasters game da...	
+3	how to register for FIDE	http://aicf.com	
+2	purpose of website|what is this website for?|use o...	This website help you to know the upcoming chessev...	
+4	Login port for players | login portal| login	http://localhost:8091/ChessClub/login.jsp	
+5	college website	http://ptuniv.edu.in	
+6	thank you|bye|thanks	Bye :)	
